@@ -1,0 +1,5 @@
+G_repeat wait() until game:IsLoaded() and game.Players.LocalPlayer
+getgenv().Key ="bananahub"
+getgenv().OldBanana = true
+loadstring(Game:HttpGet"https://raw.githubusercontent.com/obibananahub/emyeubanana/main/BananaHub")()
+
